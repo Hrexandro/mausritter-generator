@@ -330,7 +330,6 @@ export const settlements = function () {
 
 
 export const mouseNames = {
-  // VOTE Veins of the Earth Noble Names
   type: "mixerSpaced",
   prefix: [
     "Bartłomiej",
@@ -433,6 +432,59 @@ export const mouseNames = {
     "Ruta",
     "Świętka",
     "Urszula",
+
+    ///////////Ani
+    "Ziarko",
+    "Okruszko",
+    "Puszek",
+    "Gryzelek",
+    "Gryzia",
+    "Hopsa",
+    "Tuliś",
+    "Kokoszek",
+    "Jagódko",
+    "Pyłek",
+    "Kurzyk",
+    "Łapciok",
+    "Kulek",
+    "Kulanka",
+    "Tymoteusz",
+    "Mateusz",
+    "Bazyli",
+    "Albert",
+    "Irys",
+    "Ludwik",
+    "Pazurek",
+    "Różyczka",
+    "Aniela",
+    "Hubert",
+    "Sasanka",
+
+
+    "Lusia",
+    "Stefcia",
+    "Janeczka",
+    "Heniutek",
+    "Zuzia",
+    "Tosia",
+    "Basia",
+    "Grześ",
+    "Julek",
+    "Franek",
+    "Ogryzek",
+    "Dorotka",
+    "Hania",
+    "Irenka",
+    "Szczepek",
+    "Waldek",
+    "Mieszko",
+    "Waldemar",
+    "Witka",
+    "Czmych",
+    "Wąsik"
+
+
+
   ],
   sufix: [
     "Buczek",
@@ -455,6 +507,44 @@ export const mouseNames = {
     "Ślęczek",
     "Wróbel",
     "Żegota",
+
+
+        ///////////Ani
+        "Ziarko",
+        "Okruszko",
+        "Puszek",
+        "Gryzelek",
+
+        "Tuliś",
+        "Kokoszek",
+        "Jagódko",
+        "Pyłek",
+        "Kurzyk",
+        "Łapciok",
+        "Kulek",
+        "Kulanka",
+
+        "Irys",
+
+        "Osesek",
+        "Konus",
+        "Pazurek",
+        "Różyczka",
+
+        "Sasanka",
+        "Kopytko",
+        "Lilak",
+        "Grześ",
+        "Makówka",
+        "Polanka",
+        "Ogryzek",
+        "Szczepek",
+        "Oscypek",
+        "Bryndza",
+        "Zacierko",
+        "Witka",
+        "Czmych",
+        "Wąsik"
   ],
 };
 // export const something = {
