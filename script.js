@@ -1,7 +1,9 @@
 
 import {
-  sign
-
+  sign,
+  fur,
+  physicalDetail,
+  tavernNames
 
 } from "./names.js";
 
