@@ -3,7 +3,9 @@ import {
   sign,
   fur,
   physicalDetail,
-  tavernNames
+  tavernNames,
+  settlements ,
+  mouseNames
 
 } from "./names.js";
 
