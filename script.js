@@ -5,8 +5,8 @@ import {
   physicalDetail,
   tavernNames,
   settlements ,
-  mouseNames
-
+  mouseNamesMasculine,
+  mouseNamesFeminine
 } from "./names.js";
 
 const generateButton = document.getElementById("generate-button");
